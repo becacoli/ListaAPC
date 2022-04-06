@@ -1,0 +1,1 @@
+Atividades realizadas durante o progresso da matéria ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES - CPTA095 ofertada pelo curso de Ciência da Computação da Universidade Federal de Alagoas - Campus Arapiraca e ministrada pelo professor Rodolfo Carneiro Cavalcante.
